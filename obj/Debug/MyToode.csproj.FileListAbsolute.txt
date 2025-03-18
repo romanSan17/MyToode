@@ -1,0 +1,12 @@
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\bin\Debug\MyToode.exe.config
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\bin\Debug\MyToode.exe
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\bin\Debug\MyToode.pdb
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.Form1.resources
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.Properties.Resources.resources
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.csproj.GenerateResource.cache
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.exe
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.pdb
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.Kassa.resources
+C:\Users\Gigabyte\source\repos\MyToode\MyToode\obj\Debug\MyToode.Start.resources
